@@ -1,0 +1,5 @@
+# ignoring .terraform large folder
+.terraform/
+
+# ignoring .terraform lock file
+.terraform.lock.hcl
